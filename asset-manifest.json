@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.7e37248f.css",
+    "main.js": "/site/static/js/main.0daff22f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/site/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/site/static/js/787.1ed0c42c.chunk.js",
+    "static/media/L.svg": "/site/static/media/L.a78feaceb577bdba78b3bd4c6c762bfa.svg",
+    "static/media/Untitleddesign.png": "/site/static/media/Untitleddesign.3b07cea7dbf6379b128f.png",
+    "static/media/about-1.png": "/site/static/media/about-1.bbd613fc72254436267b.png",
+    "static/media/SiddhiPandya.pdf": "/site/static/media/SiddhiPandya.ed62f939ec2c5875f2e9.pdf",
+    "static/media/LOGO-1.png": "/site/static/media/LOGO-1.6dfa9023abc0fb2d6048.png",
+    "static/media/home-bg.jpg": "/site/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/site/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/site/index.html",
+    "main.7e37248f.css.map": "/site/static/css/main.7e37248f.css.map",
+    "main.0daff22f.js.map": "/site/static/js/main.0daff22f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/site/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/site/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e37248f.css",
+    "static/js/main.0daff22f.js"
+  ]
+}
